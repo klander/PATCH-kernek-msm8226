@@ -1,4 +1,2 @@
-# PATCH-kernek-msm8226
+# PATCH-kernel-msm8226
 PATCH kernel CM12
-
-
